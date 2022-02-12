@@ -1,9 +1,9 @@
-# Exercícios de Lógica de Programação
+# Exercícios de Lógica de Programação:
 
 Repositório com vários exercícios de lógica de programação, que foram criados através do módulo 03 do curso Jornada Full Stack - SejaDev.
 
 
-## Comandos Git //dois jogos da velha indica um sub-titulo do markdown e * serve para lista
+## Comandos Git:
 
 * git clone url: Clonar um repositório.
 * git checkou "branch_name": Trocar de uma branch ativa para a outra.
