@@ -12,4 +12,4 @@ const pessoaB = Pessoa ("Claudia", "Daher")
 
 //console.log(pessoaA, pessoaB)
 console.log(pessoaA.nomeCompleto)
-console.log(pessoaB.nomeCompleto)
+console.log("Nome completo pessoa A:", pessoaA.nomeCompleto)
